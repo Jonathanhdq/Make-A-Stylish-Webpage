@@ -1,0 +1,56 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://wallpaperscraft.com/image/white_background_dents_bumps_texture_69592_1920x1080.jpg);
+  background-size: cover;
+}
+
+.header {
+  text-align: center;
+}
+
+.menu {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#home {
+  display: inline;
+  margin: 5px;
+}
+
+#me {
+  display: inline;
+  margin: 5px;
+}
+
+#notes1 {
+  display: inline;
+  margin: 5px;
+}
+
+#notes2 {
+  display: inline;
+  margin: 5px;
+}
+
+.text {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+img {
+  margin: 5px;
+}
